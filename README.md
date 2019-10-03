@@ -1,2 +1,2 @@
-# Projects
-Sideline projects committed since graduate school
+# masteractivities
+school projects committed since master's degree
