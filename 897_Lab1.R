@@ -1,3 +1,4 @@
+#Dataset: Nursing Home, Codebook: Nursing Home
 #Q1: What are the names of the variables included in the Nursing Home dataset?
 getwd()
 setwd("/Users/Leah/Downloads/Lab 1")
