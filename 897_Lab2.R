@@ -1,4 +1,4 @@
-#Dataset: Wages and Hours.csv Codebook: Wages and Hours
+#Dataset: Wages and Hours.csv, Codebook: Wages and Hours
 
 #Q1: How many variables are included in the Wages and Hours dataset? 
 #Q2: How many observations (or rows) are included in the Wages and Hours dataset?
