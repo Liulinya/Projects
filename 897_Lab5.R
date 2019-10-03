@@ -11,7 +11,7 @@ good2 <- na.omit(good[,c( "read", "magebirth","breastfed","medu")])
 #Step 2: Estimate regression models
 AVP <-lm(read ~ magebirth + breastfed , data = good2)
 resid_read <- as.data.frame(AVP$residuals)
-AVP1 <-lm(read ~ magebirth + breastfed+medu , data = good2)
+AVP1 <-lm(medu ~ magebirth + breastfed, data = good2)
 resid_medu <- as.data.frame(AVP1$residuals)
 
 #Step 3: Plot the residuals from the initial model against residuals from the model with medu as 
