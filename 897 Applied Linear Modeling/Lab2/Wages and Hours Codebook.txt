@@ -1,0 +1,16 @@
+
+
+The data are from a national sample of 6000 households with a male head earning less than $15,000 annually in 1966. The data were classified into 39 demographic groups for analysis. The study was undertaken in the context of proposals for a guaranteed annual wage (negative income tax). At issue was the response of labor supply (average hours) to increasing hourly wages.
+
+Variable	Description
+HRS		Average hours worked during the year
+ERSP		Average yearly earnings of spouse ($)
+ERNO		Average yearly earnings of other family members ($)
+NEIN		Average yearly non-earned income
+ASSET		Average family asset holdings (Bank account, etc.) ($)
+AGE		Average age of respondent
+DEP		Average number of dependents
+RACE		Percent of white respondents
+SCHOOL		Average highest grade of school completed
+
+Available from: https://www.statcrunch.com/app/index.php?dataid=339481
