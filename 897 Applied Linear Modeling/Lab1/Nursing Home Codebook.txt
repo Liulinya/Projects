@@ -1,0 +1,13 @@
+The data were collected by the Department of Health and Social Services of the State of New Mexico and cover 52 of the 60 licensed nursing facilities in New Mexico in 1988. Number of cases: 52 Reference: These data are part of the data analyzed in Howard L. Smith, Niell F. Piland, and Nancy Fisher, "A Comparison of Financial Performance, Organizational Characteristics, and Management Strategy Among Rural and Urban Nursing Facilities, Journal of Rural Health, Winter 1992, pp. 27-40.
+
+
+Variable	Description
+BED		number of beds in home
+MCDAYS		annual medical in-patient days (hundreds)
+TDAYS		annual total patient days (hundreds)
+PCREV		annual total patient care revenue ($hundreds)
+NSAL		annual nursing salaries ($hundreds)
+FEXP		annual facilities expenditures ($hundreds)
+RURAL		rural (1) and non-rural (0) homes
+
+Available from: https://www.statcrunch.com/app/index.php?dataid=339502
