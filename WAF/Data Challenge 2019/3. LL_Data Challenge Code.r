@@ -1,4 +1,6 @@
+#This is a data challenge code for Wharton Analytics Fellow application Fall 2019
 #Reference: https://rstudio-pubs-static.s3.amazonaws.com/304282_e31a6262bf0b4ada9b9e17dd4859abb2.html
+
 #Step 1: Install packages & Read data from csv files
 setwd("/Users/Leah/Downloads/")
 install.packages("ggplot2")
