@@ -1,0 +1,21 @@
+NLSY Codebook
+
+These data are a subset from the National Longitudinal Survey of Youth (NLSY) 1979 Children and Young Adults.The data frame contains 2976 observations and 10 variables.
+
+VARIABLE	DESCRIPTION
+CID		Child ID
+race		race of child (1 = Hispanic, 2 = Black, 3 = Non-Black,Non-Hispanic)
+gender		gender of child (1 = male, 0 = female)
+birthord	birth order of child
+magebirth	Age of mother at birth of child
+bthwht		whether child was born low birth weight (1 = yes, 0 = no)
+breastfed	whether child was breastfed (1 = yes, 0 = no)
+medu		Highest grade completed by child’s mother*
+math		PIAT Math Standard Score 
+read		PIAT Reading Recognition Standard Score
+hhnum		Number of household members in household
+
+
+*1 - 12 = actual grade, 13 - 20 = 1 year college = 8th year college or more
+
+Available for download from: https://www.nlsinfo.org/investigator
