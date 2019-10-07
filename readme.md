@@ -1,2 +1,2 @@
 # masteractivities
-school projects committed since master's degree
+R projects committed since master's degree
