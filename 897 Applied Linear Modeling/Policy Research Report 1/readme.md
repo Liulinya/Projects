@@ -1,4 +1,4 @@
-Policy Research Report 1: Multiple Regression (15%)
+#Policy Research Report 1: Multiple Regression (15%)
 Due: Tuesday September 24th
 Increasing research evidence has indicated the meaningful effect nutrition and family income between the ages of 0 to 5 has on child development (Birch & Gussow 1970; Duncan & Brooks-Gunn 1997). You have been hired as a research consultant for an evaluation study examining the effect of the Women, Infant and Children (WIC) Nutrition Program and Aid to Families with Dependent Children (AFDC) program participation during pregnancy on child reading achievement. This is a large evaluation study using a national probability sample, the Child Development Supplement to the Panel Study of Income Dynamics, and thus has meaningful policy implications.
 Using the constructed data set (“good”), the evaluation team has asked you to examine the effect and unique contribution of 
