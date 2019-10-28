@@ -1,0 +1,5 @@
+setwd("/Users/Leah/Downloads")
+good <- read.csv("PISA.csv",,header=TRUE, sep=",")
+install.packages("car")
+library(car)
+cor(good[,c("PISARead","GNI", "GDP")], use="complete.obs")
