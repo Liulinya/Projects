@@ -1,0 +1,16 @@
+Arrests for Marijuana Possession Codebook
+
+Data on police treatment of individuals arrested in Toronto in 2002 for simple possession of small quantities of marijuana. The data are part of a larger data set featured in a series of articles in the Toronto Star newspaper. The dataframe contains 5226 observations and 8 variables.
+
+VARIABLE	DESCRIPTION
+released	whether the arrestee was released with a summons (1 = Yes / No = 0)	
+race		arrestee's race (black = 1 /white = 0)
+age		age in years of arrestee 
+gender		gender of arrestee (female = 0 /male = 1)
+citizen		whether the arrestee is a Canadian citizen (no = 0 /yes = 1)
+checks		Number of police data bases (previous arrests, convictions, parole status) 
+		on which the arrestee's name appeared
+
+
+
+Available from: https://vincentarelbundock.github.io/Rdatasets/datasets.html
